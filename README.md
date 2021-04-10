@@ -17,8 +17,9 @@ MIT License.
 | Add blacklists | O |
 | Delete blacklists | O |
 | Auto add blacklist | O | Keywords |
+| Check bot status | O |
 | Get bot mids(Using socket) | O |
-| Bots data sync | X |
+| Bots data sync | X | Might crash the set.json file |
 | 100% [OpenSource](https://github.com/light-technology/line-selfbot-socket) and Free | O | [Licensed](#License) |
 
 ## Documents
