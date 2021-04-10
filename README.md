@@ -23,4 +23,4 @@ MIT License.
 | 100% [OpenSource](https://github.com/light-technology/line-selfbot-socket) and Free | O | [Licensed](#License) |
 
 ## Documents
-Not able now.
+[Link here](https://docs.light-tech.info/line-protect-selfbot)
