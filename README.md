@@ -16,7 +16,7 @@ MIT License.
 | Delete admins | O |
 | Get bot mids(Using socket) | O |
 | Bots data sync | X |
-| 100% [OpenSource](https://github.com/light-technology/line-liff) and Free | O | [Licensed](#License) |
+| 100% [OpenSource](https://github.com/light-technology/line-selfbot-socket) and Free | O | [Licensed](#License) |
 
 ## Documents
 Not able now.
