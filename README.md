@@ -14,6 +14,9 @@ MIT License.
 | Login to LINE account | O |
 | Add admins | O |
 | Delete admins | O |
+| Add blacklists | O |
+| Delete blacklists | O |
+| Auto add blacklist | O | Keywords |
 | Get bot mids(Using socket) | O |
 | Bots data sync | X |
 | 100% [OpenSource](https://github.com/light-technology/line-selfbot-socket) and Free | O | [Licensed](#License) |
